@@ -1,10 +1,9 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Arif Nugraha Santosa  
+**NRP**: 5025211048  
+**Judul TA**: PEMBANGKITAN DESKRIPSI CITRA MAKANAN BERDASARKAN ASPEK ESTETIKA MENGGUNAKAN ENCODER-DECODER CNN-LSTM MODEL  
+**Dosen Pembimbing**: Shintami Chusnul Hidayati, S.Kom., M.Sc., Ph.D.
 
 ---
 
